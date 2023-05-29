@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=obrunoz&show_icons=true&theme=dark&locale=en&layout=compact" alt="obrunoz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obrunoz&" alt="obrunoz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obrunoz&theme=dark" alt="obrunoz" /></p>
