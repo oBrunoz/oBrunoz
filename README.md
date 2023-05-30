@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno de Alencar Ferreira</h1>
-<h3 align="center">I'm 19 years old! At the moment I'm internship Developer at Policia Civil do Distrito Federal.</h3>
+<h3 align="center">I'm 19 years old! At the moment I'm internship developer at Policia Civil do Distrito Federal.</h3>
 
 - 🔭 I’m currently working on a flask project: [CRUD - Python, Flask](https://github.com/oBrunoz/FlaskPy)
 
