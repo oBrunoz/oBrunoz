@@ -7,7 +7,7 @@
 
 - 📫 Contate-me: **alencarb.dev@gmail.com**.
 
-- 👀 English README: **(https://github.com/oBrunoz/oBrunoz/README.en)**
+- 👀 English README: **[README.en](https://github.com/oBrunoz/oBrunoz)**
 
 <h3 align="center">Meu Linkedin:</h3>
 <p align="center">
