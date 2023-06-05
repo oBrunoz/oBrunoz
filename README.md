@@ -1,11 +1,13 @@
 <h1 align="center">Olá 👋, me chamo Bruno de Alencar Ferreira</h1>
 <h3 align="center">Sou estudante de Ciência da Computação, tenho 19 anos e no momento sou desenvolvedor estagiário na Policia Civíl do Distrito Federal.</h3>
 
-- 🔭 No momento estou desenvolvendo um projeto flask: [CRUD - Python, Flask](https://github.com/oBrunoz/FlaskPy)
+- 🔭 Estou desenvolvendo um projeto flask: [CRUD - Python, Flask](https://github.com/oBrunoz/FlaskPy)
 
-- 🌱 No momento estou estudando **Python e Flask Framework**
+- 🌱 No momento estou estudando **Python e Flask Framework**.
 
-- 📫 Contate-me: **alencarb.dev@gmail.com**
+- 📫 Contate-me: **alencarb.dev@gmail.com**.
+
+- 👀 English README: **(https://github.com/oBrunoz/oBrunoz/README.en)**
 
 <h3 align="center">Meu Linkedin:</h3>
 <p align="center">
