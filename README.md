@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, me chamo Bruno de Alencar Ferreira</h1>
+<h1 align="center">Olá, me chamo Bruno de Alencar Ferreira 👋</h1>
 <h3 align="center">Sou estudante de Ciência da Computação, tenho 20 anos e no momento sou desenvolvedor backend no Centro Gestor e Operacional do Sistema de Proteção da Amazônia.</h3>
 
 - 🔭 Estou desenvolvendo um projeto Angular: Guessr Web Game(https://github.com/oBrunoz/guessr-web-game)
