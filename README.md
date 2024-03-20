@@ -1,9 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Bruno de Alencar Ferreira</h1>
-<h3 align="center">Sou estudante de Ciência da Computação, tenho 19 anos e no momento sou desenvolvedor estagiário na Policia Civíl do Distrito Federal.</h3>
+<h3 align="center">Sou estudante de Ciência da Computação, tenho 20 anos e no momento sou desenvolvedor backend no Centro Gestor e Operacional do Sistema de Proteção da Amazônia.</h3>
 
-- 🔭 Estou desenvolvendo um projeto flask: [CRUD - Python, Flask](https://github.com/oBrunoz/FlaskPy)
-
-- 🌱 No momento estou estudando **Python e Flask Framework**.
+- 🔭 Estou desenvolvendo um projeto Angular: Guessr Web Game(https://github.com/oBrunoz/guessr-web-game)
 
 - 📫 Contate-me: **alencarb.dev@gmail.com**.
 
