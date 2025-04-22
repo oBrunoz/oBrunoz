@@ -1,4 +1,8 @@
+![Header](https://github.com/oBrunoz/oBrunoz/blob/main/profile.png)
 
+---
+
+Sou desenvolvedor Full Stack com sólida experiência em Python, FastAPI e Flask, e excelente conhecimento em linguagens front-end como TypeScript e TailwindCSS. 🇧🇷
 
 ### 🔧 Linguagens  
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -9,4 +13,4 @@
 ### 🗄️ Banco de Dados  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql) ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=alchemy)
 
-<a><img height="137px" src="https://github-readme-stats.vercel.app/api?username=oBrunoz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=FDFAF6&icon_color=FFB433&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oBrunoz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=FDFAF6&icon_color=FFB433&theme=dark" /></a>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=oBrunoz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=FDFAF6&icon_color=FFB433&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oBrunoz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=FDFAF6&icon_color=FFB433&theme=dark" />
