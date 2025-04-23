@@ -13,4 +13,7 @@ I am a Full Stack Developer with solid experience in Python, FastAPI, and Flask,
 ### 🗄️ Databases  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql) ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=alchemy)
 
+### 📍 Portuguese README
+![Portuguese README](https://github.com/oBrunoz/oBrunoz/blob/main/README.md)
+
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=oBrunoz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=FDFAF6&icon_color=FFB433&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oBrunoz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=FDFAF6&icon_color=FFB433&theme=dark" />
