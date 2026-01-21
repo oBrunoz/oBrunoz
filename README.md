@@ -1,5 +1,3 @@
-![Header](https://github.com/oBrunoz/oBrunoz/blob/main/profile.png)
-
 ---
 
 Sou desenvolvedor Full Stack com sólida experiência em Python, FastAPI e Flask, e conhecimento em linguagens e ferramentas front-end como TypeScript e TailwindCSS. 🇧🇷
